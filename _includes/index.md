@@ -11,15 +11,15 @@ Narrative](area/narrative)
 Engagement](area/engagement)
 
 {: #area-privacy .area}
-[![image](/leadership/asserts/img/privacy.png)<br>
+[![image]({{ "/asserts/img/privacy.png" | prepend: site.baseurl | prepend: site.url }})<br>
 Technology](area/technologyn)
 
 ## Stay updated about new activities
 
 {: #area-mozparticipate .area .area-small}
-[![image](/leadership/asserts/img/participation.png)
+[![image]({{ "/asserts/img/participation.png" | prepend: site.baseurl | prepend: site.url }})
 Follow @MozParticipate on twitter](https://twitter.com/intent/follow/?screen_name=MozParticipate)
 
 {: #area-discourse .area .area-small}
-[![image](/leadership/asserts/img/discourse.png)
+[![image]({{ "/asserts/img/discourse.png" | prepend: site.baseurl | prepend: site.url }})
 Subcribe to Participation Leaders forum](https://discourse.mozilla-community.org/c/participation-leaders)

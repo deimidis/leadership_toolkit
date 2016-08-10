@@ -7,7 +7,7 @@ ref: narrative
 ---
 
 {: .right}
-![image](/leadership/asserts/img/servo.png)
+![image]({{ "/asserts/img/servo.png" | prepend: site.baseurl | prepend: site.url }})
 
 * TOC
 {:toc}
