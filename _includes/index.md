@@ -7,7 +7,7 @@
 Narrative](area/narrative)
 
 {: #area-servo .area}
-[![image]({{ site.github.url }}/leadership/asserts/img/servo.png)<br>
+[![image]({{ "/asserts/img/servo.png" | prepend: site.baseurl | prepend: site.url }})<br>
 Engagement](area/engagement)
 
 {: #area-privacy .area}
