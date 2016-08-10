@@ -7,7 +7,7 @@
 Narrative](area/narrative)
 
 {: #area-servo .area}
-[![image](/leadership/asserts/img/servo.png)<br>
+[![image]({{ site.github.url }}/leadership/asserts/img/servo.png)<br>
 Engagement](area/engagement)
 
 {: #area-privacy .area}
