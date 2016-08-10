@@ -3,7 +3,7 @@
 ## Social Competencies
 
 {: #area-deveng .area}
-[![image](/leadership/asserts/img/development.png)<br>
+[![image]({{ "/asserts/img/development.png" | prepend: site.baseurl }})<br>
 Narrative](area/narrative)
 
 {: #area-servo .area}
