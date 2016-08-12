@@ -27,32 +27,32 @@ The key to communicating effectively in order to extend Mozillian reach to devel
 #### Issues agenda:
 
 * **Mozilla on Campus**
- * Set-up and lead student groups
- * Set up in person meetings
- * Talk in front of other students
+  * Set-up and lead student groups
+  * Set up in person meetings
+  * Talk in front of other students
 
 
 * **Copyright/MakerParty**
-    * Talk with passion about the theme in front of others
-    * Teach about this issue
+  * Talk with passion about the theme in front of others
+  * Teach about this issue
 
 
 * **Bring people into open source**
-    * Talk and convince people in person
+  * Talk and convince people in person
 
 
 * **Updated events + tools**
- * Promotions in social media for Events
- * Follow up activities: Regular communications with attendees, set up follow-up activities, keep people engaged
+  * Promotions in social media for Events
+  * Follow up activities: Regular communications with attendees, set up follow-up activities, keep people engaged
 
 
 ### Community Spaces:
 
 * **Developing Local knowledge about the tech community**
- * Listening to new voices
- * Asking questions to learn
- * Summarizing, Comparing/Contrasting and Clarifying stories
- * Promote the space activities online and offline
+  * Listening to new voices
+  * Asking questions to learn
+  * Summarizing, Comparing/Contrasting and Clarifying stories
+  * Promote the space activities online and offline
 
 
 * **Community Experimentation Launchpad**
@@ -105,17 +105,20 @@ The key to communicating effectively in order to extend Mozillian reach to devel
 
 ### Storytelling
 
-** How to Tell a Story:**
+**How to Tell a Story:**
+
 * [How to Tell a Story Playlist (TEDTalks)](https://www.ted.com/playlists/62/how_to_tell_a_story)
 * [How to Tell a Great Story (Blog Post)](http://www.wikihow.com/Tell-a-Great-Story)
 
-** Content:**
+**Content:**
+
 * [How to Podcast](https://docs.google.com/document/d/1QW5bFDJEi8Txix0jVsxjAaci88m00FNTfKaS-sM0VgI/edit)
 * [How to Blog](http://www.bloggingbasics101.com/how-do-i-start-a-blog/)
 * [Digital Storytelling and Social Media](https://www.postplanner.com/digital-storytelling-techniques-secret-sauce-social-media/)
 * [Storify](https://storify.com/)
 
-** Interviews:**
+**Interviews:**
+
 * [Interviewing Tips](http://j-school.jrn.msu.edu/kc/lessons/interviewing-on-the-environment-beat/interviewing-tips/) for Stories
 * [How to Ask Questions](http://www.lifehack.org/articles/communication/how-amazingly-good-asking-questions.html)
 
@@ -137,4 +140,4 @@ The key to communicating effectively in order to extend Mozillian reach to devel
 
 * [https://learning.mozilla.org/](https://learning.mozilla.org/)
 
-*This idea for this framework is remixed from the work of Julian Stodd and the [NET Model of Social Leadership](http://seasaltlearning.com/social-leadership/)* 
+*This idea for this framework is remixed from the work of Julian Stodd and the [NET Model of Social Leadership](http://seasaltlearning.com/social-leadership/)*

@@ -4,7 +4,7 @@
 
 {: #area-deveng .area}
 [![image]({{ "/asserts/img/development.png" | prepend: site.baseurl }})<br>
-Narrative](area/narrative)
+Communication](area/communication)
 
 {: #area-servo .area}
 [![image]({{ "/asserts/img/servo.png" | prepend: site.baseurl | prepend: site.url }})<br>
