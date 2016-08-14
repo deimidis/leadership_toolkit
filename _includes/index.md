@@ -8,11 +8,11 @@ Communication](area/communication)
 
 {: #area-servo .area}
 [![image]({{ "/asserts/img/servo.png" | prepend: site.baseurl | prepend: site.url }})<br>
-Engagement](area/engagement)
+Network](area/network)
 
 {: #area-privacy .area}
 [![image]({{ "/asserts/img/privacy.png" | prepend: site.baseurl | prepend: site.url }})<br>
-Technology](area/technologyn)
+Sustainability](area/sustainability)
 
 ## Stay updated about new activities
 
